@@ -1,7 +1,5 @@
 # vn-sync
 
-## Run
-
 ## Prerequisite
 
 Create `config.json`  
@@ -16,7 +14,7 @@ Create `config.json`
 }
 ```
 
-### Backup
+## Backup
 
 Backup `from` folders to `to`  
 
@@ -24,7 +22,7 @@ Backup `from` folders to `to`
 ./vn-sync.ps1 b
 ```
 
-### Restore
+## Restore
 
 Restore `to` folders to `from`
 
